@@ -5,7 +5,7 @@ Very very easy image tooltip zoom on hover, built upon jQuery and bootstrap
 Needs jQuery and Bootstrap
 
 # Usage
-- first, import the script
+the first, import the script
 
 ## Via HTML classes
 just add .tooltipzoom to the images that you want to have a tooltip zoom
