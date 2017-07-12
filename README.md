@@ -16,4 +16,4 @@ just call $("IMG").tooltipzoom(); to enable it via Javascript
 Note: you can change "IMG" to another jQuery IMG selector
 
 ## Options
-supports all the bootstrap data-* options for tooltips, just add them on the <img> tag that you are tooltipping ;)
+supports all the bootstrap data-* options for tooltips, just add them on the IMG tag that you are tooltipping ;)
